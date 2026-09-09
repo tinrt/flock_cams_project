@@ -1,0 +1,52 @@
+2026-09-08 23:49:17,648 INFO    === build_dataset start ===
+2026-09-08 23:49:17,649 INFO    loaded 40 raw records from raw_collected.json
+2026-09-08 23:49:17,652 INFO    [1] kept ok                 https://csmonitor.com/USA/Society/2026/0904/flock-cameras-privacy-survei
+2026-09-08 23:49:17,652 INFO    [2] kept ok                 https://aclu.org/news/privacy-technology/tracking-alpr-cameras/despite-n
+2026-09-08 23:49:17,652 INFO    [3] kept ok                 https://data.aclum.org/2025/10/07/flock-gives-law-enforcement-all-over-t
+2026-09-08 23:49:17,652 INFO    [4] kept ok                 https://bgr.com/2192089/flock-cameras-scanning-license-plate-audio-data-
+2026-09-08 23:49:17,653 INFO    [5] kept ok                 https://ksat.com/news/local/2026/08/11/flock-cameras-what-automated-lice
+2026-09-08 23:49:17,653 INFO    [6] kept ok                 https://flocksafety.com/blog/how-an-automatic-license-plate-recognition-
+2026-09-08 23:49:17,653 INFO    [7] kept ok                 https://ij.org/dozens-of-innocent-motorists-have-been-pulled-over-detain
+2026-09-08 23:49:17,653 INFO    [8] kept ok                 https://davisvanguard.org/2026/08/roseville-police-ai-camera-errors
+2026-09-08 23:49:17,653 INFO    [9] kept ok                 https://flocksafety.com/blog/flock-guardrails-address-lpr-privacy-concer
+2026-09-08 23:49:17,653 INFO    [10] kept ok                 https://abcnews.com/US/flock-cameras-trigger-nationwide-backlash-privacy
+2026-09-08 23:49:17,653 INFO    [11] kept robots_disallowed  https://cnn.com/2026/07/26/us/flock-cameras-surveillance-abuse
+2026-09-08 23:49:17,653 INFO    [12] kept ok                 https://epic.org/vehicle-fingerprinting-through-pervasive-camera-surveil
+2026-09-08 23:49:17,654 INFO    [13] kept ok                 https://eff.org/deeplinks/2025/10/flocks-gunshot-detection-microphones-w
+2026-09-08 23:49:17,654 INFO    [14] kept ok                 https://pbs.org/newshour/show/police-say-flock-cameras-help-solve-crimes
+2026-09-08 23:49:17,654 INFO    [15] kept ok                 https://axios.com/2026/08/26/flock-cameras-senate-investigation-josh-haw
+2026-09-08 23:49:17,654 INFO    [16] kept ok                 https://newsweek.com/map-cities-rejected-deactivated-flock-cameras-12253
+2026-09-08 23:49:17,654 INFO    [17] kept ok                 https://eff.org/deeplinks/2025/02/anti-surveillance-mapmaker-refuses-flo
+2026-09-08 23:49:17,654 INFO    [18] kept ok                 https://reason.com/2026/08/13/flock-cameras-and-license-plate-readers-ar
+2026-09-08 23:49:17,654 INFO    [19] kept ok                 https://wilx.com/2026/08/25/lansing-council-adopts-resolution-end-flock-
+2026-09-08 23:49:17,654 INFO    [20] kept ok                 https://independent.com/2026/08/21/city-of-santa-barbara-to-end-contract
+2026-09-08 23:49:17,654 INFO    [21] kept ok                 https://opb.org/article/2026/08/20/winston-police-southern-oregon-ends-f
+2026-09-08 23:49:17,654 INFO    [22] kept ok                 https://cbsnews.com/colorado/news/denver-contract-flock-camera-immigrati
+2026-09-08 23:49:17,655 INFO    [23] kept ok                 https://jsis.washington.edu/humanrights/2025/10/21/leaving-the-door-wide
+2026-09-08 23:49:17,655 INFO    [24] kept ok                 https://the74million.org/article/ice-taps-into-school-security-cameras-t
+2026-09-08 23:49:17,655 INFO    [25] kept ok                 https://insideinvestigator.org/lawsuit-license-plate-readers-found-in-ct
+2026-09-08 23:49:17,655 INFO    [26] kept robots_disallowed  https://berkeleyside.org/2026/07/13/flock-safety-cameras-berkeley-licens
+2026-09-08 23:49:17,655 INFO    [27] kept ok                 https://everettpost.com/state-news/washington-cities-spend-millions-on-f
+2026-09-08 23:49:17,655 INFO    [28] kept robots_disallowed  https://baltimoresun.com/2026/08/25/flock-cameras-karl-bickel
+2026-09-08 23:49:17,655 INFO    [29] kept paywalled          https://washingtonexaminer.com/in_focus/4687765/how-flock-cameras-help-i
+2026-09-08 23:49:17,655 INFO    [30] kept ok                 https://washingtonexaminer.com/news/campaigns/congressional/4703065/defl
+2026-09-08 23:49:17,655 INFO    [31] kept ok                 https://police1.com/tech-pulse/aerodome-flock-safety-partner-to-expand-d
+2026-09-08 23:49:17,655 INFO    [32] kept ok                 https://flocksafety.com/blog/does-flock-share-data-with-ice
+2026-09-08 23:49:17,656 INFO    [33] kept ok                 https://flocksafety.com/blog/how-effective-is-flock
+2026-09-08 23:49:17,656 INFO    [34] kept ok                 https://cbsnews.com/boston/news/cambridge-license-plate-reader-cameras-d
+2026-09-08 23:49:17,656 INFO    [35] kept ok                 https://scrippsnews.com/us-news/bipartisan-push-for-investigation-into-f
+2026-09-08 23:49:17,656 INFO    [36] kept ok                 https://kctv5.com/2026/08/27/hawley-launches-investigation-into-ai-power
+2026-09-08 23:49:17,656 INFO    [37] kept ok                 https://foxcarolina.com/2026/08/19/asheville-mayor-calls-city-cancel-flo
+2026-09-08 23:49:17,656 INFO    [38] kept ok                 https://theshoestring.org/2026/08/18/get-the-flock-out-western-massachus
+2026-09-08 23:49:17,656 INFO    [39] kept ok                 https://wset.com/news/local/lynchburg-ends-flock-contract-but-camera-deb
+2026-09-08 23:49:17,656 INFO    [40] kept http_error         https://blog.adafruit.com/2026/06/10/deflock-an-open-source-project-mapp
+2026-09-08 23:49:17,657 INFO    ---- summary ----
+2026-09-08 23:49:17,657 INFO      raw          40
+2026-09-08 23:49:17,657 INFO      dup_url      0
+2026-09-08 23:49:17,657 INFO      dup_title    0
+2026-09-08 23:49:17,658 INFO      kept         40
+2026-09-08 23:49:17,658 INFO      content_null 4
+2026-09-08 23:49:17,658 INFO      date_null    0
+2026-09-08 23:49:17,658 INFO      distinct_outlets 35
+2026-09-08 23:49:17,658 INFO    wrote 40 articles to flock_news_dataset.json
+2026-09-08 23:49:17,658 INFO    === build_dataset done ===
