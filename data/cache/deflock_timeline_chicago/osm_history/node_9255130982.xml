@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="openstreetmap-cgimap 2.1.0 (244707 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <node id="9255130982" visible="true" version="1" changeset="113833787" timestamp="2021-11-16T05:08:11Z" user="JakeTheMoose" uid="1898744" lat="41.9533800" lon="-87.7469053">
+  <tag k="camera:mount" v="traffic_signals"/>
+  <tag k="camera:type" v="fixed"/>
+  <tag k="direction" v="90"/>
+  <tag k="man_made" v="surveillance"/>
+  <tag k="operator" v="Chicago Police Department"/>
+  <tag k="surveillance" v="traffic"/>
+  <tag k="surveillance:type" v="ALPR"/>
+  <tag k="surveillance:zone" v="traffic"/>
+ </node>
+ <node id="9255130982" visible="true" version="2" changeset="154752127" timestamp="2024-08-02T20:20:25Z" user="nickvet419" uid="18480" lat="41.9533392" lon="-87.7469071">
+  <tag k="camera:mount" v="traffic_signals"/>
+  <tag k="camera:type" v="fixed"/>
+  <tag k="direction" v="90"/>
+  <tag k="man_made" v="surveillance"/>
+  <tag k="operator" v="Chicago Police Department"/>
+  <tag k="surveillance" v="traffic"/>
+  <tag k="surveillance:type" v="ALPR"/>
+  <tag k="surveillance:zone" v="traffic"/>
+ </node>
+ <node id="9255130982" visible="true" version="3" changeset="155820576" timestamp="2024-08-27T09:25:50Z" user="Zol87" uid="1237170" lat="41.9533392" lon="-87.7469071">
+  <tag k="camera:mount" v="traffic_signals"/>
+  <tag k="camera:type" v="fixed"/>
+  <tag k="direction" v="90"/>
+  <tag k="man_made" v="surveillance"/>
+  <tag k="operator" v="Chicago Police Department"/>
+  <tag k="operator:wikidata" v="Q1340186"/>
+  <tag k="surveillance" v="traffic"/>
+  <tag k="surveillance:type" v="ALPR"/>
+  <tag k="surveillance:zone" v="traffic"/>
+ </node>
+ <node id="9255130982" visible="true" version="4" changeset="166129073" timestamp="2025-05-11T23:27:06Z" user="JakeTheMoose" uid="1898744" lat="41.9533799" lon="-87.7469183">
+  <tag k="camera:mount" v="traffic_signals"/>
+  <tag k="camera:type" v="fixed"/>
+  <tag k="direction" v="90"/>
+  <tag k="man_made" v="surveillance"/>
+  <tag k="operator" v="Chicago Police Department"/>
+  <tag k="operator:wikidata" v="Q1340186"/>
+  <tag k="surveillance" v="traffic"/>
+  <tag k="surveillance:type" v="ALPR"/>
+  <tag k="surveillance:zone" v="traffic"/>
+ </node>
+ <node id="9255130982" visible="true" version="5" changeset="172500410" timestamp="2025-09-26T19:26:13Z" user="Zol87" uid="1237170" lat="41.9533902" lon="-87.7468795">
+  <tag k="camera:mount" v="traffic_signals"/>
+  <tag k="camera:type" v="fixed"/>
+  <tag k="direction" v="90"/>
+  <tag k="man_made" v="surveillance"/>
+  <tag k="operator" v="Chicago Police Department"/>
+  <tag k="operator:wikidata" v="Q1340186"/>
+  <tag k="surveillance" v="traffic"/>
+  <tag k="surveillance:type" v="ALPR"/>
+  <tag k="surveillance:zone" v="traffic"/>
+ </node>
+</osm>

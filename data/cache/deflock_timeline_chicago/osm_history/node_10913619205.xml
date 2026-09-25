@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="openstreetmap-cgimap 2.1.0 (244693 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <node id="10913619205" visible="true" version="1" changeset="136323024" timestamp="2023-05-20T05:56:01Z" user="chriswhy" uid="5568963" lat="41.8717090" lon="-87.7303733"/>
+ <node id="10913619205" visible="true" version="2" changeset="181021702" timestamp="2026-04-07T21:40:43Z" user="Metalmonger_013" uid="24022378" lat="41.8717090" lon="-87.7303733">
+  <tag k="direction" v="220"/>
+  <tag k="man_made" v="surveillance"/>
+  <tag k="surveillance" v="alpr"/>
+  <tag k="surveillance:type" v="ALPR"/>
+  <tag k="surveillance:zone" v="traffic"/>
+ </node>
+</osm>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="openstreetmap-cgimap 2.1.0 (244701 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <node id="13861222101" visible="true" version="1" changeset="183037134" timestamp="2026-05-22T18:41:42Z" user="bob1984" uid="21298135" lat="41.7081147" lon="-87.5680153">
+  <tag k="camera:type" v="fixed"/>
+  <tag k="direction" v="106"/>
+  <tag k="man_made" v="surveillance"/>
+  <tag k="manufacturer" v="Genetec"/>
+  <tag k="manufacturer:wikidata" v="Q30295174"/>
+  <tag k="surveillance" v="public"/>
+  <tag k="surveillance:type" v="ALPR"/>
+  <tag k="surveillance:zone" v="traffic"/>
+ </node>
+</osm>

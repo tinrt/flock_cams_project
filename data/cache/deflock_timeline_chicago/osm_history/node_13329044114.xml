@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="openstreetmap-cgimap 2.1.0 (244700 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <node id="13329044114" visible="true" version="1" changeset="175084657" timestamp="2025-11-24T20:51:26Z" user="Burnt Potato" uid="23543018" lat="41.9776012" lon="-87.6926510">
+  <tag k="camera:type" v="fixed"/>
+  <tag k="direction" v="165"/>
+  <tag k="man_made" v="surveillance"/>
+  <tag k="manufacturer" v="Flock Safety"/>
+  <tag k="manufacturer:wikidata" v="Q108485435"/>
+  <tag k="surveillance:type" v="ALPR"/>
+ </node>
+ <node id="13329044114" visible="true" version="2" changeset="185363896" timestamp="2026-07-08T19:22:50Z" user="Burnt Potato" uid="23543018" lat="41.9776012" lon="-87.6926510">
+  <tag k="camera:type" v="fixed"/>
+  <tag k="direction" v="165"/>
+  <tag k="man_made" v="surveillance"/>
+  <tag k="manufacturer" v="Genetec"/>
+  <tag k="manufacturer:wikidata" v="Q30295174"/>
+  <tag k="surveillance:type" v="ALPR"/>
+ </node>
+</osm>

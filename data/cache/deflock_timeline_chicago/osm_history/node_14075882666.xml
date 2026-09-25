@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="openstreetmap-cgimap 2.1.0 (244689 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <node id="14075882666" visible="true" version="1" changeset="187007175" timestamp="2026-08-06T02:03:35Z" user="misterfrog" uid="24042813" lat="41.9023814" lon="-87.7507411">
+  <tag k="camera:mount" v="pole"/>
+  <tag k="camera:type" v="fixed"/>
+  <tag k="direction" v="270"/>
+  <tag k="man_made" v="surveillance"/>
+  <tag k="surveillance" v="public"/>
+  <tag k="surveillance:type" v="ALPR"/>
+  <tag k="surveillance:zone" v="traffic"/>
+ </node>
+</osm>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="openstreetmap-cgimap 2.1.0 (244684 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <node id="14214332502" visible="true" version="1" changeset="189545648" timestamp="2026-09-25T13:39:34Z" user="Chi-Reporter-83" uid="24592803" lat="41.8903058" lon="-87.6203940">
+  <tag k="camera:type" v="fixed"/>
+  <tag k="direction" v="0"/>
+  <tag k="man_made" v="surveillance"/>
+  <tag k="manufacturer" v="Leonardo"/>
+  <tag k="manufacturer:wikidata" v="Q910379"/>
+  <tag k="surveillance" v="public"/>
+  <tag k="surveillance:type" v="ALPR"/>
+  <tag k="surveillance:zone" v="traffic"/>
+ </node>
+</osm>

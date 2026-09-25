@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="openstreetmap-cgimap 2.1.0 (244684 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <node id="14073720067" visible="true" version="1" changeset="186950670" timestamp="2026-08-04T22:55:44Z" user="elijah432" uid="24336598" lat="41.8751207" lon="-87.6663667">
+  <tag k="camera:mount" v="traffic_signal"/>
+  <tag k="camera:type" v="fixed"/>
+  <tag k="direction" v="60"/>
+  <tag k="electricity" v="grid"/>
+  <tag k="man_made" v="surveillance"/>
+  <tag k="manufacturer" v="Genetec"/>
+  <tag k="manufacturer:wikidata" v="Q30295174"/>
+  <tag k="operator" v="Chicago Police Department"/>
+  <tag k="operator:wikidata" v="Q1340186"/>
+  <tag k="surveillance" v="public"/>
+  <tag k="surveillance:type" v="ALPR"/>
+  <tag k="surveillance:zone" v="traffic"/>
+ </node>
+</osm>

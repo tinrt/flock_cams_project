@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="openstreetmap-cgimap 2.1.0 (244698 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <node id="13191323620" visible="true" version="1" changeset="172806808" timestamp="2025-10-03T19:33:59Z" user="QuickRattler" uid="23352759" lat="41.9828327" lon="-87.8059631">
+  <tag k="camera:type" v="fixed"/>
+  <tag k="direction" v="240"/>
+  <tag k="man_made" v="surveillance"/>
+  <tag k="manufacturer" v="Motorola Solutions"/>
+  <tag k="manufacturer:wikidata" v="Q634815"/>
+  <tag k="surveillance:type" v="ALPR"/>
+ </node>
+ <node id="13191323620" visible="true" version="2" changeset="172806897" timestamp="2025-10-03T19:37:05Z" user="QuickRattler" uid="23352759" lat="41.9828327" lon="-87.8059631">
+  <tag k="camera:type" v="fixed"/>
+  <tag k="direction" v="240"/>
+  <tag k="man_made" v="surveillance"/>
+  <tag k="manufacturer" v="Genetec"/>
+  <tag k="manufacturer:wikidata" v="Q30295174"/>
+  <tag k="operator" v="Chicago Police Department"/>
+  <tag k="operator:wikidata" v="Q13218686"/>
+  <tag k="surveillance:type" v="ALPR"/>
+ </node>
+ <node id="13191323620" visible="true" version="3" changeset="174031122" timestamp="2025-10-31T17:19:43Z" user="QuickRattler" uid="23352759" lat="41.9828327" lon="-87.8059631">
+  <tag k="camera:type" v="fixed"/>
+  <tag k="direction" v="240"/>
+  <tag k="man_made" v="surveillance"/>
+  <tag k="manufacturer" v="Genetec"/>
+  <tag k="manufacturer:wikidata" v="Q30295174"/>
+  <tag k="operator" v="Chicago Police Department"/>
+  <tag k="operator:wikidata" v="Q13218686"/>
+  <tag k="surveillance" v="camera"/>
+  <tag k="surveillance:type" v="ALPR"/>
+ </node>
+ <node id="13191323620" visible="true" version="4" changeset="174890406" timestamp="2025-11-20T05:14:26Z" user="Zol87" uid="1237170" lat="41.9828327" lon="-87.8059631">
+  <tag k="camera:type" v="fixed"/>
+  <tag k="direction" v="240"/>
+  <tag k="man_made" v="surveillance"/>
+  <tag k="manufacturer" v="Genetec"/>
+  <tag k="manufacturer:wikidata" v="Q30295174"/>
+  <tag k="operator" v="Chicago Police Department"/>
+  <tag k="operator:wikidata" v="Q1340186"/>
+  <tag k="surveillance" v="camera"/>
+  <tag k="surveillance:type" v="ALPR"/>
+ </node>
+</osm>

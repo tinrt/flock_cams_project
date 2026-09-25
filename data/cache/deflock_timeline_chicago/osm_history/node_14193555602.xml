@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="openstreetmap-cgimap 2.1.0 (244706 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <node id="14193555602" visible="true" version="1" changeset="189226199" timestamp="2026-09-18T20:12:01Z" user="Branson_14" uid="24488391" lat="41.9910942" lon="-87.9219949">
+  <tag k="camera:type" v="fixed"/>
+  <tag k="direction" v="0;58;113;174;213;253;302"/>
+  <tag k="man_made" v="surveillance"/>
+  <tag k="manufacturer" v="Axis Communications"/>
+  <tag k="manufacturer:wikidata" v="Q2347731"/>
+  <tag k="surveillance" v="public"/>
+  <tag k="surveillance:type" v="ALPR"/>
+  <tag k="surveillance:zone" v="traffic"/>
+ </node>
+</osm>

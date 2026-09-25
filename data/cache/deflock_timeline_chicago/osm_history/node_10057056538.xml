@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="openstreetmap-cgimap 2.1.0 (862522 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <node id="10057056538" visible="true" version="1" changeset="126713087" timestamp="2022-09-27T20:26:18Z" user="Zol87" uid="1237170" lat="41.9186066" lon="-87.6777685"/>
+ <node id="10057056538" visible="true" version="2" changeset="159722982" timestamp="2024-11-29T00:18:20Z" user="Urfer" uid="22233122" lat="41.9186066" lon="-87.6777685">
+  <tag k="brand" v="Motorola Solutions"/>
+  <tag k="brand:wikidata" v="Q634815"/>
+  <tag k="camera:mount" v="pole"/>
+  <tag k="camera:type" v="fixed"/>
+  <tag k="man_made" v="surveillance"/>
+  <tag k="surveillance" v="traffic"/>
+  <tag k="surveillance:type" v="ALPR"/>
+  <tag k="surveillance:zone" v="traffic"/>
+ </node>
+ <node id="10057056538" visible="true" version="3" changeset="171418680" timestamp="2025-09-03T17:33:49Z" user="clairebaire" uid="20453286" lat="41.9186066" lon="-87.6777685">
+  <tag k="brand" v="Motorola Solutions"/>
+  <tag k="brand:wikidata" v="Q634815"/>
+  <tag k="camera:mount" v="pole"/>
+  <tag k="camera:type" v="fixed"/>
+  <tag k="direction" v="160"/>
+  <tag k="man_made" v="surveillance"/>
+  <tag k="surveillance" v="traffic"/>
+  <tag k="surveillance:type" v="ALPR"/>
+  <tag k="surveillance:zone" v="traffic"/>
+ </node>
+ <node id="10057056538" visible="true" version="4" changeset="177228126" timestamp="2026-01-14T16:59:59Z" user="Zol87" uid="1237170" lat="41.9185873" lon="-87.6777295">
+  <tag k="brand" v="Motorola Solutions"/>
+  <tag k="brand:wikidata" v="Q634815"/>
+  <tag k="camera:mount" v="pole"/>
+  <tag k="camera:type" v="fixed"/>
+  <tag k="direction" v="160"/>
+  <tag k="man_made" v="surveillance"/>
+  <tag k="surveillance" v="traffic"/>
+  <tag k="surveillance:type" v="ALPR"/>
+  <tag k="surveillance:zone" v="traffic"/>
+ </node>
+</osm>

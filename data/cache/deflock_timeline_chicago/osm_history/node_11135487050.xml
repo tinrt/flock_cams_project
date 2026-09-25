@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="openstreetmap-cgimap 2.1.0 (244705 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <node id="11135487050" visible="true" version="1" changeset="140210401" timestamp="2023-08-22T05:45:32Z" user="JakeTheMoose" uid="1898744" lat="41.9013173" lon="-87.6238272">
+  <tag k="camera:mount" v="traffic_signals"/>
+  <tag k="camera:type" v="fixed"/>
+  <tag k="direction" v="0"/>
+  <tag k="man_made" v="surveillance"/>
+  <tag k="note" v="Two ALPRs are mounted on the street lamp at the Northbound entrance to North Jean Baptiste Point DuSable Lake Shore Drive. The ALPRs are pointed North."/>
+  <tag k="operator" v="Chicago Police Department"/>
+  <tag k="surveillance" v="traffic"/>
+  <tag k="surveillance:type" v="ALPR"/>
+  <tag k="surveillance:zone" v="traffic"/>
+ </node>
+ <node id="11135487050" visible="true" version="2" changeset="151247257" timestamp="2024-05-13T02:40:05Z" user="nickvet419" uid="18480" lat="41.9012886" lon="-87.6238237">
+  <tag k="camera:mount" v="traffic_signals"/>
+  <tag k="camera:type" v="fixed"/>
+  <tag k="direction" v="0"/>
+  <tag k="man_made" v="surveillance"/>
+  <tag k="note" v="Two ALPRs are mounted on the street lamp at the Northbound entrance to North Jean Baptiste Point DuSable Lake Shore Drive. The ALPRs are pointed North."/>
+  <tag k="operator" v="Chicago Police Department"/>
+  <tag k="surveillance" v="traffic"/>
+  <tag k="surveillance:type" v="ALPR"/>
+  <tag k="surveillance:zone" v="traffic"/>
+ </node>
+ <node id="11135487050" visible="true" version="3" changeset="155810494" timestamp="2024-08-27T05:01:14Z" user="Zol87" uid="1237170" lat="41.9012886" lon="-87.6238237">
+  <tag k="camera:mount" v="traffic_signals"/>
+  <tag k="camera:type" v="fixed"/>
+  <tag k="direction" v="0"/>
+  <tag k="man_made" v="surveillance"/>
+  <tag k="note" v="Two ALPRs are mounted on the street lamp at the Northbound entrance to North Jean Baptiste Point DuSable Lake Shore Drive. The ALPRs are pointed North."/>
+  <tag k="operator" v="Chicago Police Department"/>
+  <tag k="operator:wikidata" v="Q1340186"/>
+  <tag k="surveillance" v="traffic"/>
+  <tag k="surveillance:type" v="ALPR"/>
+  <tag k="surveillance:zone" v="traffic"/>
+ </node>
+</osm>

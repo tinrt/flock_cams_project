@@ -1,0 +1,19 @@
+{
+  "generated_at_utc": "2026-09-25T18:15:44.540909+00:00",
+  "script_purpose": "Reconstruct the first OSM/DeFlock map-report date of current Chicago ALPR/ANPR cameras.",
+  "geographic_scope": "City of Chicago OSM administrative boundary, Illinois",
+  "camera_filter": "man_made=surveillance AND surveillance:type in {ALPR, ANPR}",
+  "current_camera_count_requested": 1324,
+  "successful_history_count": 1324,
+  "failure_count": 0,
+  "validation_warning_count": 0,
+  "explicit_current_flock_tag_count": 93,
+  "earliest_first_mapped_date": "2021-10-31",
+  "latest_first_mapped_date": "2026-09-25",
+  "main_variable": "first_mapped_as_alpr_at",
+  "main_variable_definition": "Earliest timestamp in the complete OSM element history where the object is visible and has man_made=surveillance plus surveillance:type=ALPR or ANPR.",
+  "critical_limitation": "This measures when the camera was first mapped/reported in OSM, not its physical installation or operational date.",
+  "raw_inventory_cache": "data\\cache\\deflock_timeline_chicago\\current_chicago_alpr.json",
+  "raw_history_cache": "data\\cache\\deflock_timeline_chicago\\osm_history",
+  "output_csv": "data\\chicago_deflock_timeline_dates.csv"
+}

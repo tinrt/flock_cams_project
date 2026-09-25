@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="openstreetmap-cgimap 2.1.0 (244697 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <node id="14038375501" visible="true" version="1" changeset="186150293" timestamp="2026-07-22T02:01:09Z" user="Baron1968" uid="24336763" lat="41.9692518" lon="-87.7638104">
+  <tag k="camera:mount" v="pole"/>
+  <tag k="camera:type" v="fixed"/>
+  <tag k="direction" v="89"/>
+  <tag k="man_made" v="surveillance"/>
+  <tag k="manufacturer" v="Auto Patrol"/>
+  <tag k="operator" v="Chicago police department"/>
+  <tag k="operator:type" v="government"/>
+  <tag k="surveillance" v="public"/>
+  <tag k="surveillance:type" v="ALPR"/>
+  <tag k="surveillance:zone" v="traffic"/>
+  <tag k="type" v="verra speed camera"/>
+ </node>
+ <node id="14038375501" visible="true" version="2" changeset="187657401" timestamp="2026-08-18T19:30:07Z" user="Zol87" uid="1237170" lat="41.9692518" lon="-87.7638104">
+  <tag k="camera:mount" v="pole"/>
+  <tag k="camera:type" v="fixed"/>
+  <tag k="direction" v="89"/>
+  <tag k="man_made" v="surveillance"/>
+  <tag k="manufacturer" v="Auto Patrol"/>
+  <tag k="operator" v="Chicago Police Department"/>
+  <tag k="operator:type" v="government"/>
+  <tag k="operator:wikidata" v="Q1340186"/>
+  <tag k="surveillance" v="public"/>
+  <tag k="surveillance:type" v="ALPR"/>
+  <tag k="surveillance:zone" v="traffic"/>
+  <tag k="type" v="verra speed camera"/>
+ </node>
+</osm>

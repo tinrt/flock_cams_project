@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="openstreetmap-cgimap 2.1.0 (244707 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <node id="13660363140" visible="true" version="1" changeset="180085733" timestamp="2026-03-19T02:49:35Z" user="outspoken7496" uid="23901590" lat="41.8658002" lon="-87.7641847">
+  <tag k="camera:type" v="fixed"/>
+  <tag k="direction" v="0"/>
+  <tag k="man_made" v="surveillance"/>
+  <tag k="manufacturer" v="Flock Safety"/>
+  <tag k="manufacturer:wikidata" v="Q108485435"/>
+  <tag k="surveillance" v="public"/>
+  <tag k="surveillance:type" v="ALPR"/>
+  <tag k="surveillance:zone" v="traffic"/>
+ </node>
+ <node id="13660363140" visible="true" version="2" changeset="180085814" timestamp="2026-03-19T02:56:35Z" user="outspoken7496" uid="23901590" lat="41.8660591" lon="-87.7641795">
+  <tag k="camera:type" v="fixed"/>
+  <tag k="direction" v="340"/>
+  <tag k="man_made" v="surveillance"/>
+  <tag k="manufacturer" v="Flock Safety"/>
+  <tag k="manufacturer:wikidata" v="Q108485435"/>
+  <tag k="surveillance" v="public"/>
+  <tag k="surveillance:type" v="ALPR"/>
+  <tag k="surveillance:zone" v="traffic"/>
+ </node>
+</osm>

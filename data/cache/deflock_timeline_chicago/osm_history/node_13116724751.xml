@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="openstreetmap-cgimap 2.1.0 (244688 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <node id="13116724751" visible="true" version="1" changeset="171418941" timestamp="2025-09-03T17:40:37Z" user="clairebaire" uid="20453286" lat="41.9277794" lon="-87.6816971">
+  <tag k="camera:type" v="fixed"/>
+  <tag k="direction" v="200"/>
+  <tag k="man_made" v="surveillance"/>
+  <tag k="manufacturer" v="Flock Safety"/>
+  <tag k="manufacturer:wikidata" v="Q108485435"/>
+  <tag k="surveillance:type" v="ALPR"/>
+ </node>
+ <node id="13116724751" visible="true" version="2" changeset="175824559" timestamp="2025-12-12T00:09:34Z" user="goflockyourself42069" uid="23543547" lat="41.9277794" lon="-87.6816971">
+  <tag k="camera:type" v="fixed"/>
+  <tag k="direction" v="200"/>
+  <tag k="man_made" v="surveillance"/>
+  <tag k="manufacturer" v="Flock Safety"/>
+  <tag k="manufacturer:wikidata" v="Q108485435"/>
+  <tag k="operator" v="The Home Depot"/>
+  <tag k="operator:type" v="private"/>
+  <tag k="operator:wikidata" v="Q864407"/>
+  <tag k="surveillance" v="public"/>
+  <tag k="surveillance:type" v="ALPR"/>
+  <tag k="surveillance:zone" v="traffic"/>
+ </node>
+</osm>

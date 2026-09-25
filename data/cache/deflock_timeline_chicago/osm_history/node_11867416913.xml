@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="openstreetmap-cgimap 2.1.0 (244689 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <node id="11867416913" visible="true" version="1" changeset="150682908" timestamp="2024-04-29T21:58:00Z" user="JakeTheMoose" uid="1898744" lat="41.8879749" lon="-87.6280276">
+  <tag k="camera:mount" v="street_lamp"/>
+  <tag k="camera:type" v="fixed"/>
+  <tag k="direction" v="200"/>
+  <tag k="man_made" v="surveillance"/>
+  <tag k="note" v="Three ALPRs are mounted on a street lamp located within the median. Each ALPR is pointed at one of the three southbound lanes of State Street."/>
+  <tag k="operator" v="Chicago Police Department"/>
+  <tag k="surveillance" v="traffic"/>
+  <tag k="surveillance:type" v="ALPR"/>
+  <tag k="surveillance:zone" v="traffic"/>
+ </node>
+ <node id="11867416913" visible="true" version="2" changeset="155810494" timestamp="2024-08-27T05:01:14Z" user="Zol87" uid="1237170" lat="41.8879749" lon="-87.6280276">
+  <tag k="camera:mount" v="street_lamp"/>
+  <tag k="camera:type" v="fixed"/>
+  <tag k="direction" v="200"/>
+  <tag k="man_made" v="surveillance"/>
+  <tag k="note" v="Three ALPRs are mounted on a street lamp located within the median. Each ALPR is pointed at one of the three southbound lanes of State Street."/>
+  <tag k="operator" v="Chicago Police Department"/>
+  <tag k="operator:wikidata" v="Q1340186"/>
+  <tag k="surveillance" v="traffic"/>
+  <tag k="surveillance:type" v="ALPR"/>
+  <tag k="surveillance:zone" v="traffic"/>
+ </node>
+</osm>

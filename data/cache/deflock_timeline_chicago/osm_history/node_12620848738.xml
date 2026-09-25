@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="openstreetmap-cgimap 2.1.0 (244683 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <node id="12620848738" visible="true" version="1" changeset="162978617" timestamp="2025-02-26T16:14:57Z" user="JakeTheMoose" uid="1898744" lat="41.8638477" lon="-87.7019795">
+  <tag k="camera:mount" v="traffic_signals"/>
+  <tag k="camera:type" v="fixed"/>
+  <tag k="direction" v="340"/>
+  <tag k="man_made" v="surveillance"/>
+  <tag k="operator" v="Chicago Police Department"/>
+  <tag k="operator:wikidata" v="Q1340186"/>
+  <tag k="surveillance" v="traffic"/>
+  <tag k="surveillance:type" v="ALPR"/>
+  <tag k="surveillance:zone" v="traffic"/>
+ </node>
+</osm>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="openstreetmap-cgimap 2.1.0 (244692 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <node id="13191808015" visible="true" version="1" changeset="172814557" timestamp="2025-10-04T02:47:03Z" user="MisterFreeze" uid="8420235" lat="41.9393147" lon="-87.6882327">
+  <tag k="camera:type" v="fixed"/>
+  <tag k="direction" v="150"/>
+  <tag k="man_made" v="surveillance"/>
+  <tag k="surveillance:type" v="ALPR"/>
+ </node>
+ <node id="13191808015" visible="true" version="2" changeset="185364057" timestamp="2026-07-08T19:25:50Z" user="Burnt Potato" uid="23543018" lat="41.9393147" lon="-87.6882327">
+  <tag k="camera:type" v="fixed"/>
+  <tag k="direction" v="150"/>
+  <tag k="man_made" v="surveillance"/>
+  <tag k="manufacturer" v="Genetec"/>
+  <tag k="manufacturer:wikidata" v="Q30295174"/>
+  <tag k="surveillance:type" v="ALPR"/>
+ </node>
+ <node id="13191808015" visible="true" version="3" changeset="186156036" timestamp="2026-07-22T05:13:13Z" user="elijah432" uid="24336598" lat="41.9393147" lon="-87.6882327">
+  <tag k="camera:mount" v="traffic_signal"/>
+  <tag k="camera:type" v="fixed"/>
+  <tag k="direction" v="150"/>
+  <tag k="electricity" v="solar"/>
+  <tag k="man_made" v="surveillance"/>
+  <tag k="manufacturer" v="Genetec"/>
+  <tag k="manufacturer:wikidata" v="Q30295174"/>
+  <tag k="operator" v="Chicago Police Department"/>
+  <tag k="operator:wikidata" v="Q1340186"/>
+  <tag k="surveillance" v="traffic"/>
+  <tag k="surveillance:type" v="ALPR"/>
+  <tag k="surveillance:zone" v="traffic"/>
+ </node>
+ <node id="13191808015" visible="true" version="4" changeset="186157021" timestamp="2026-07-22T05:44:27Z" user="elijah432" uid="24336598" lat="41.9393147" lon="-87.6882327">
+  <tag k="camera:mount" v="traffic_signal"/>
+  <tag k="camera:type" v="fixed"/>
+  <tag k="direction" v="150"/>
+  <tag k="electricity" v="solar"/>
+  <tag k="man_made" v="surveillance"/>
+  <tag k="manufacturer" v="Genetec"/>
+  <tag k="manufacturer:wikidata" v="Q30295174"/>
+  <tag k="operator" v="Chicago Police Department"/>
+  <tag k="operator:wikidata" v="Q1340186"/>
+  <tag k="surveillance" v="public"/>
+  <tag k="surveillance:type" v="ALPR"/>
+  <tag k="surveillance:zone" v="traffic"/>
+ </node>
+</osm>

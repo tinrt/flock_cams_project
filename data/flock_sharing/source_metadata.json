@@ -1,0 +1,23 @@
+{
+  "generatedAt": "2026-09-21T12:12:02Z",
+  "source": "https://eyesonflock.com/api/v1/data",
+  "snapshotPortals": 1517,
+  "featureCount": 6906,
+  "portalCount": 1515,
+  "adjacencyKeys": 914,
+  "directedEdges": 470692,
+  "geocodeMethods": {
+    "county": 1074,
+    "google": 1545,
+    "google_places": 12,
+    "junk": 28,
+    "manual": 1,
+    "place": 3946,
+    "place_variant": 295,
+    "state": 5
+  },
+  "junk": 28,
+  "inactive": 117,
+  "likelyAggregators": 228,
+  "runId": "35598120982"
+}

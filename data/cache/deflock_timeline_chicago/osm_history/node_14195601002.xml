@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="openstreetmap-cgimap 2.1.0 (244699 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <node id="14195601002" visible="true" version="1" changeset="189231794" timestamp="2026-09-18T22:57:12Z" user="Branson_14" uid="24488391" lat="41.9778935" lon="-87.9036856">
+  <tag k="camera:type" v="fixed"/>
+  <tag k="direction" v="0"/>
+  <tag k="man_made" v="surveillance"/>
+  <tag k="manufacturer" v="Motorola Solutions"/>
+  <tag k="manufacturer:wikidata" v="Q634815"/>
+  <tag k="surveillance" v="public"/>
+  <tag k="surveillance:type" v="ALPR"/>
+  <tag k="surveillance:zone" v="traffic"/>
+ </node>
+</osm>

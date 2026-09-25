@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="openstreetmap-cgimap 2.1.0 (244707 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <node id="14073735862" visible="true" version="1" changeset="186950349" timestamp="2026-08-04T22:37:48Z" user="elijah432" uid="24336598" lat="41.8741720" lon="-87.6565699">
+  <tag k="camera:mount" v="pole"/>
+  <tag k="camera:type" v="fixed"/>
+  <tag k="direction" v="70"/>
+  <tag k="electricity" v="solar"/>
+  <tag k="man_made" v="surveillance"/>
+  <tag k="manufacturer" v="Flock Safety"/>
+  <tag k="manufacturer:wikidata" v="Q108485435"/>
+  <tag k="model" v="Flock Falcon"/>
+  <tag k="model:wikidata" v="Q139104098"/>
+  <tag k="operator" v="University of Illinois Chicago"/>
+  <tag k="operator:wikidata" v="Q955764"/>
+  <tag k="owner" v="Flock Safety"/>
+  <tag k="owner:wikidata" v="Q108485435"/>
+  <tag k="surveillance" v="public"/>
+  <tag k="surveillance:type" v="ALPR"/>
+  <tag k="surveillance:zone" v="traffic"/>
+ </node>
+</osm>

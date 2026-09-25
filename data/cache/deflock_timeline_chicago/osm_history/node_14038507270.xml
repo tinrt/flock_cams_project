@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="openstreetmap-cgimap 2.1.0 (244697 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <node id="14038507270" visible="true" version="1" changeset="186155794" timestamp="2026-07-22T05:05:26Z" user="elijah432" uid="24336598" lat="41.9458278" lon="-87.7129231">
+  <tag k="camera:mount" v="pole"/>
+  <tag k="camera:type" v="fixed"/>
+  <tag k="direction" v="280"/>
+  <tag k="electricity" v="solar"/>
+  <tag k="man_made" v="surveillance"/>
+  <tag k="manufacturer" v="Flock Safety"/>
+  <tag k="manufacturer:wikidata" v="Q108485435"/>
+  <tag k="model" v="Flock Falcon"/>
+  <tag k="model:wikidata" v="Q139104098"/>
+  <tag k="operator" v="The Home Depot"/>
+  <tag k="operator:wikidata" v="Q864407"/>
+  <tag k="owner" v="Flock Safety"/>
+  <tag k="owner:wikidata" v="Q108485435"/>
+  <tag k="surveillance" v="outdoor"/>
+  <tag k="surveillance:type" v="ALPR"/>
+  <tag k="surveillance:zone" v="parking"/>
+ </node>
+</osm>

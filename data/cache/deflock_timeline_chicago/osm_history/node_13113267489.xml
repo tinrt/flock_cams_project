@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="openstreetmap-cgimap 2.1.0 (862522 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <node id="13113267489" visible="true" version="1" changeset="171338096" timestamp="2025-09-02T00:26:39Z" user="clairebaire" uid="20453286" lat="41.9104910" lon="-87.6773084">
+  <tag k="camera:type" v="fixed"/>
+  <tag k="direction" v="90"/>
+  <tag k="man_made" v="surveillance"/>
+  <tag k="manufacturer" v="Motorola Solutions"/>
+  <tag k="manufacturer:wikidata" v="Q634815"/>
+  <tag k="note" v="on eastbound signal mast pole"/>
+  <tag k="surveillance:type" v="ALPR"/>
+ </node>
+ <node id="13113267489" visible="true" version="2" changeset="182180860" timestamp="2026-05-03T22:18:25Z" user="nickvet419" uid="18480" lat="41.9104683" lon="-87.6773084">
+  <tag k="camera:type" v="fixed"/>
+  <tag k="direction" v="90"/>
+  <tag k="man_made" v="surveillance"/>
+  <tag k="manufacturer" v="Motorola Solutions"/>
+  <tag k="manufacturer:wikidata" v="Q634815"/>
+  <tag k="note" v="on eastbound signal mast pole"/>
+  <tag k="surveillance:type" v="ALPR"/>
+ </node>
+</osm>

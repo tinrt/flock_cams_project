@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="openstreetmap-cgimap 2.1.0 (244704 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <node id="11098381985" visible="true" version="1" changeset="139585665" timestamp="2023-08-07T22:27:21Z" user="JakeTheMoose" uid="1898744" lat="41.8751197" lon="-87.6906073">
+  <tag k="camera:mount" v="wall"/>
+  <tag k="camera:type" v="fixed"/>
+  <tag k="direction" v="90"/>
+  <tag k="man_made" v="surveillance"/>
+  <tag k="note" v="Two ALPRs mounted on pedestrian bridge."/>
+  <tag k="operator" v="Illinois State Police"/>
+  <tag k="surveillance" v="traffic"/>
+  <tag k="surveillance:type" v="ALPR"/>
+  <tag k="surveillance:zone" v="traffic"/>
+ </node>
+ <node id="11098381985" visible="true" version="2" changeset="155808816" timestamp="2024-08-27T03:16:23Z" user="Zol87" uid="1237170" lat="41.8751197" lon="-87.6906073">
+  <tag k="camera:mount" v="wall"/>
+  <tag k="camera:type" v="fixed"/>
+  <tag k="direction" v="90"/>
+  <tag k="man_made" v="surveillance"/>
+  <tag k="note" v="Two ALPRs mounted on pedestrian bridge."/>
+  <tag k="operator" v="Illinois State Police"/>
+  <tag k="operator:wikidata" v="Q3148730"/>
+  <tag k="surveillance" v="traffic"/>
+  <tag k="surveillance:type" v="ALPR"/>
+  <tag k="surveillance:zone" v="traffic"/>
+ </node>
+ <node id="11098381985" visible="true" version="3" changeset="160223669" timestamp="2024-12-12T21:06:14Z" user="Zol87" uid="1237170" lat="41.8751197" lon="-87.6906073">
+  <tag k="camera:mount" v="wall"/>
+  <tag k="camera:type" v="fixed"/>
+  <tag k="direction" v="90"/>
+  <tag k="man_made" v="surveillance"/>
+  <tag k="note" v="Two ALPRs mounted on pedestrian bridge."/>
+  <tag k="operator" v="Illinois State Police"/>
+  <tag k="operator:short" v="ISP"/>
+  <tag k="operator:wikidata" v="Q3148730"/>
+  <tag k="surveillance" v="traffic"/>
+  <tag k="surveillance:type" v="ALPR"/>
+  <tag k="surveillance:zone" v="traffic"/>
+ </node>
+ <node id="11098381985" visible="true" version="4" changeset="170349551" timestamp="2025-08-12T16:04:12Z" user="MisterFreeze" uid="8420235" lat="41.8751197" lon="-87.6906073">
+  <tag k="camera:mount" v="wall"/>
+  <tag k="camera:type" v="fixed"/>
+  <tag k="direction" v="90;100"/>
+  <tag k="man_made" v="surveillance"/>
+  <tag k="note" v="Two ALPRs mounted on pedestrian bridge."/>
+  <tag k="operator" v="Illinois State Police"/>
+  <tag k="operator:short" v="ISP"/>
+  <tag k="operator:wikidata" v="Q3148730"/>
+  <tag k="surveillance" v="traffic"/>
+  <tag k="surveillance:type" v="ALPR"/>
+  <tag k="surveillance:zone" v="traffic"/>
+ </node>
+</osm>

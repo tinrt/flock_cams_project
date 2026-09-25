@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="openstreetmap-cgimap 2.1.0 (244687 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <node id="261326106" visible="true" version="1" changeset="307476" timestamp="2008-05-02T01:31:34Z" user="DaveHansenTiger" uid="7168" lat="41.9005320" lon="-87.6419530">
+  <tag k="source" v="tiger_import_dch_v0.6_20070809"/>
+  <tag k="tiger:county" v="Cook, IL"/>
+  <tag k="tiger:tlid" v="111767764:111767765:111888351"/>
+  <tag k="tiger:upload_uuid" v="bulk_upload.pl-ee310570-36cc-43bc-bc7b-aff94618acaf"/>
+ </node>
+ <node id="261326106" visible="true" version="2" changeset="332320" timestamp="2008-05-04T02:18:22Z" user="alexrudd" uid="5611" lat="41.9005320" lon="-87.6419530">
+  <tag k="source" v="tiger_import_dch_v0.6_20070809"/>
+  <tag k="tiger:county" v="Cook, IL"/>
+  <tag k="tiger:tlid" v="111767764:111767765:111888351"/>
+  <tag k="tiger:upload_uuid" v="bulk_upload.pl-ee310570-36cc-43bc-bc7b-aff94618acaf"/>
+ </node>
+ <node id="261326106" visible="true" version="3" changeset="3603594" timestamp="2010-01-12T14:52:50Z" user="woodpeck_fixbot" uid="147510" lat="41.9005320" lon="-87.6419530"/>
+ <node id="261326106" visible="true" version="4" changeset="5940403" timestamp="2010-10-02T22:54:04Z" user="Gone" uid="120468" lat="41.9004323" lon="-87.6419063"/>
+ <node id="261326106" visible="true" version="5" changeset="15405162" timestamp="2013-03-18T08:38:09Z" user="Umbugbene" uid="567034" lat="41.9004337" lon="-87.6419063"/>
+ <node id="261326106" visible="true" version="6" changeset="171417346" timestamp="2025-09-03T16:59:09Z" user="clairebaire" uid="20453286" lat="41.9004337" lon="-87.6419063">
+  <tag k="camera:type" v="fixed"/>
+  <tag k="direction" v="175"/>
+  <tag k="man_made" v="surveillance"/>
+  <tag k="surveillance:type" v="ALPR"/>
+ </node>
+</osm>

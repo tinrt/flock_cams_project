@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="openstreetmap-cgimap 2.1.0 (862522 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <node id="10767134882" visible="true" version="1" changeset="134193959" timestamp="2023-03-27T20:42:33Z" user="JakeTheMoose" uid="1898744" lat="41.8923695" lon="-87.6475318">
+  <tag k="camera:mount" v="street_lamp"/>
+  <tag k="camera:type" v="fixed"/>
+  <tag k="direction" v="90"/>
+  <tag k="man_made" v="surveillance"/>
+  <tag k="operator" v="Illinois State Police"/>
+  <tag k="surveillance" v="traffic"/>
+  <tag k="surveillance:type" v="ALPR"/>
+  <tag k="surveillance:zone" v="traffic"/>
+ </node>
+ <node id="10767134882" visible="true" version="2" changeset="155808816" timestamp="2024-08-27T03:16:23Z" user="Zol87" uid="1237170" lat="41.8923695" lon="-87.6475318">
+  <tag k="camera:mount" v="street_lamp"/>
+  <tag k="camera:type" v="fixed"/>
+  <tag k="direction" v="90"/>
+  <tag k="man_made" v="surveillance"/>
+  <tag k="operator" v="Illinois State Police"/>
+  <tag k="operator:wikidata" v="Q3148730"/>
+  <tag k="surveillance" v="traffic"/>
+  <tag k="surveillance:type" v="ALPR"/>
+  <tag k="surveillance:zone" v="traffic"/>
+ </node>
+ <node id="10767134882" visible="true" version="3" changeset="156701753" timestamp="2024-09-16T19:01:17Z" user="nickvet419" uid="18480" lat="41.8923762" lon="-87.6475126">
+  <tag k="camera:mount" v="street_lamp"/>
+  <tag k="camera:type" v="fixed"/>
+  <tag k="direction" v="90"/>
+  <tag k="man_made" v="surveillance"/>
+  <tag k="operator" v="Illinois State Police"/>
+  <tag k="operator:wikidata" v="Q3148730"/>
+  <tag k="surveillance" v="traffic"/>
+  <tag k="surveillance:type" v="ALPR"/>
+  <tag k="surveillance:zone" v="traffic"/>
+ </node>
+ <node id="10767134882" visible="true" version="4" changeset="160220774" timestamp="2024-12-12T19:24:19Z" user="Zol87" uid="1237170" lat="41.8923762" lon="-87.6475126">
+  <tag k="camera:mount" v="street_lamp"/>
+  <tag k="camera:type" v="fixed"/>
+  <tag k="direction" v="90"/>
+  <tag k="man_made" v="surveillance"/>
+  <tag k="operator" v="Illinois State Police"/>
+  <tag k="operator:short" v="ISP"/>
+  <tag k="operator:wikidata" v="Q3148730"/>
+  <tag k="surveillance" v="traffic"/>
+  <tag k="surveillance:type" v="ALPR"/>
+  <tag k="surveillance:zone" v="traffic"/>
+ </node>
+ <node id="10767134882" visible="true" version="5" changeset="180272535" timestamp="2026-03-22T21:06:34Z" user="nickvet419" uid="18480" lat="41.8923747" lon="-87.6475085">
+  <tag k="camera:mount" v="street_lamp"/>
+  <tag k="camera:type" v="fixed"/>
+  <tag k="direction" v="90"/>
+  <tag k="man_made" v="surveillance"/>
+  <tag k="operator" v="Illinois State Police"/>
+  <tag k="operator:short" v="ISP"/>
+  <tag k="operator:wikidata" v="Q3148730"/>
+  <tag k="surveillance" v="traffic"/>
+  <tag k="surveillance:type" v="ALPR"/>
+  <tag k="surveillance:zone" v="traffic"/>
+ </node>
+</osm>
