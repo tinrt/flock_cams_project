@@ -1,0 +1,24 @@
+{
+  "created_utc": "2026-09-25T01:09:27.283462+00:00",
+  "all_area_mapped_camera_count": 2151,
+  "chicago_city_mapped_camera_count": 1336,
+  "chicago_city_confirmed_flock_count": 107,
+  "missing_zip_count": 816,
+  "missing_address_count": 2151,
+  "verified_installation_dates": 0,
+  "verified_operational_dates": 0,
+  "sources": {
+    "overpass": "https://overpass-api.de/api/interpreter",
+    "districts": "https://services7.arcgis.com/8kZv9DESIQ1hYuyJ/arcgis/rest/services/District_24_links_WFL1/FeatureServer/0/query?where=1%3D1&outFields=*&returnGeometry=true&outSR=4326&f=geojson",
+    "zips": "https://data.cityofchicago.org/api/geospatial/unjd-c2ca?method=export&format=GeoJSON",
+    "osm_history": "https://api.openstreetmap.org/api/0.6/node/{id}/history.json"
+  },
+  "notes": [
+    "OSM map/edit dates are observations, not installation or activation dates.",
+    "Dates require independently documented, camera-matched evidence.",
+    "Address stays blank when OSM has no address; optional city reverse geocoder returns only approximate nearest street.",
+    "District polygons are current, not historical boundaries.",
+    "Area output contains suburbs in a fixed bounding box; city output uses district boundary polygons.",
+    "This is a mapped-camera sample, not a census of every installed Flock camera."
+  ]
+}
