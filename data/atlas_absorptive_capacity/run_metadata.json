@@ -1,0 +1,61 @@
+{
+  "generated_utc": "2026-10-07T00:37:37.793137+00:00",
+  "inputs": [
+    {
+      "file": "atlas_full.csv",
+      "sha256": "aa430b2daeb3191e9a56e38502ea5dea9ca64d3054da8db1e76e9c6539eff8fb",
+      "rows": 15135
+    }
+  ],
+  "agency_count": 9356,
+  "input_technology_categories": [
+    "Automated License Plate Readers",
+    "Body-worn Cameras",
+    "Camera Registry",
+    "Cell-site Simulator",
+    "Drones",
+    "FRT",
+    "Face Recognition",
+    "Fusion Center",
+    "Gunshot Detection",
+    "Predictive Policing",
+    "Real-Time Crime Center",
+    "Third-party Investigative Platforms",
+    "Video Analytics"
+  ],
+  "cutoff_year": null,
+  "index_definition": "Count of distinct technology types with confirmed agency use evidence; Flock-linked evidence excluded",
+  "index_distribution": {
+    "2": 797,
+    "1": 3823,
+    "0": 4479,
+    "3": 166,
+    "4": 56,
+    "5": 23,
+    "6": 11,
+    "7": 1
+  },
+  "adoption_status_distribution": {
+    "confirmed_use": 8803,
+    "confirmed_procurement": 991,
+    "mention_only": 1261,
+    "planned_or_funded_only": 2265,
+    "review_attribution": 1924,
+    "approval_or_contract_only": 468,
+    "trial_or_evaluation_only": 26,
+    "review_registry_not_camera_network": 330,
+    "rejected_or_negated": 45,
+    "review_center_context": 153
+  },
+  "single_technology_export_warning": false,
+  "limitations": [
+    "Proxy for documented technology experience, not a validated measure of absorptive capacity.",
+    "Absence of evidence is not evidence of nonadoption. No keyword frequency or repeated-record bonus.",
+    "ALPR-only exports cannot support a comprehensive technology breadth comparison.",
+    "Snapshot index is not automatically a pre-treatment measure.",
+    "Regex rules can miss paraphrases and mishandle attribution or scope; inspect sentence evidence.",
+    "Explicit years are local evidence years, not necessarily exact first adoption dates.",
+    "ORI suffix stripping produces candidate identifiers; verify against agency directory.",
+    "No article fetching; only supplied Atlas Summary text is analysed."
+  ]
+}

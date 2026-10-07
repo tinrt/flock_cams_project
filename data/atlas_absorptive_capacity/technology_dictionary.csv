@@ -1,0 +1,15 @@
+﻿technology,label,keyword_regex
+alpr,Automated license plate readers,\b(?:ALPRs?|ANPRs?|LPRs?|(?:automatic|automated)\s+(?:license\s+)?plate\s+(?:readers?|recognition|scanners?)|license[- ]plate\s+(?:readers?|recognition|scanners?))\b
+gunshot_detection,Gunshot detection,\b(?:ShotSpotter|gun[- ]?shot\s+(?:detection|detectors?|sensors?)|acoustic\s+gunfire\s+detection|Flock\s+Raven)\b
+body_worn_cameras,Body worn cameras,\b(?:body[- ](?:worn|mounted)\s+cameras?|body\s*cams?|BWCs?)\b
+drones,Drones,\b(?:drones?|unmanned\s+(?:aerial|aircraft)\s+(?:systems?|vehicles?)|UAVs?|UAS)\b
+facial_recognition,Facial recognition,\b(?:fac(?:e|ial)\s+recognition|Clearview\s+AI)\b
+real_time_crime_center,Real time crime center,\b(?:real[- ]time\s+crime\s+cent(?:er|re)s?|RTCCs?)\b
+predictive_policing,Predictive policing,\b(?:predictive\s+policing|PredPol|Geolitica|HunchLab)\b
+surveillance_camera_network,Surveillance camera network,\b(?:CCTV|surveillance\s+cameras?(?:\s+networks?)?|video\s+surveillance\s+(?:systems?|networks?)|(?:public|citywide)\s+camera\s+networks?)\b
+video_analytics,Video analytics,\b(?:BriefCam|video\s+analytics|automated\s+video\s+analysis)\b
+fusion_center,Fusion center,\bfusion\s+cent(?:er|re)s?\b
+camera_registry,Camera registry,\b(?:(?:private\s+)?camera\s+(?:registr(?:y|ies|ation)|register)|(?:video|camera)\s+sharing\s+program)\b
+cell_site_simulator,Cell site simulator,\b(?:cell[- ]site\s+simulators?|IMSI[- ]catchers?|Sting[Rr]ays?|Hailstorm)\b
+mobile_device_forensics,Mobile device forensics,\b(?:Cellebrite|GrayKey|mobile\s+(?:phone|device)\s+forensics|cell\s*phone\s+extraction)\b
+third_party_investigative_platform,Third party investigative platform,\b(?:Palantir|CrimeTracer|Coplink(?:\s+X)?|Accurint|TLOxp|Thomson\s+Reuters\s+CLEAR|PenLink|Skopenow|Peregrine|Whooster|Dataminr|Chorus\s+Intelligence|ShadowDragon|third[- ]party\s+investigative\s+platforms?|investigative\s+data\s+platforms?|Fog\s+(?:Data\s+Science|Reveal))\b

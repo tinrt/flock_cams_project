@@ -1,0 +1,22 @@
+{
+  "source_url": "https://atlasofsurveillance.org/download.csv",
+  "final_url": "https://www.atlasofsurveillance.org/download.csv",
+  "downloaded_at_utc": "2026-10-07T00:37:34.131487+00:00",
+  "rows": 15135,
+  "technology_categories": [
+    "Automated License Plate Readers",
+    "Body-worn Cameras",
+    "Camera Registry",
+    "Cell-site Simulator",
+    "Drones",
+    "FRT",
+    "Face Recognition",
+    "Fusion Center",
+    "Gunshot Detection",
+    "Predictive Policing",
+    "Real-Time Crime Center",
+    "Third-party Investigative Platforms",
+    "Video Analytics"
+  ],
+  "sha256": "aa430b2daeb3191e9a56e38502ea5dea9ca64d3054da8db1e76e9c6539eff8fb"
+}
