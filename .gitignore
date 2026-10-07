@@ -1,1 +1,8 @@
 data/flock_sharing/flock_sharing_edges.csv
+
+data/**/raw/
+data/cache/
+data/fbi_clearances/
+data/fbi_clearances_us/
+__pycache__/
+*.pyc
